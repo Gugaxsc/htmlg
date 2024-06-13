@@ -1,0 +1,50 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(199, 198, 198);
+    padding: 20px 20px;
+    font-size: 20px;
+}
+div{
+    padding: 200px;
+    align-items: center;
+    font-size: 30px;
+}
+#p1{
+    text-align: center;
+    padding:20px;
+    font-size: 25px;
+    
+}
+.divv{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+
+
+}
+.form{
+    text-align: right;
+    display: inline-block;
+    padding-right: 5px;
+    font-size: 40px;
+    width: 500px;
+}
+.end{
+    text-align: center;
+    font-size: 50px;
+    background-color:rgb(199, 195, 195);
+}
+.font{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+  
+}
+#img{
+    align-items: center;
+    width: 200px;
+    background-color: rgb(201, 198, 195);
+}
